@@ -16,4 +16,3 @@ CSS - Styling
 JavaScript - Fetching and displaying weather data
 OpenWeatherMap API - Provides weather data
 
-Live link - 
